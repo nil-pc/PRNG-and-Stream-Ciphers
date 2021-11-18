@@ -11,8 +11,10 @@ It will then calculates the value of pi from the calculated probablity.
 # Input
 Number of pairs of numbers to be considered
 
-# Compilation and Run
+# Compilation
 g++ -std=gnu++11 Assign2Q8.5.cpp
+
+# Execution
 ./a.out
 
 # Submission Details
